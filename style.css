@@ -1,0 +1,57 @@
+.node{
+    font-size: 75px;
+}
+
+.card {
+        margin: auto; 
+        float: none; 
+        margin-bottom: 10px; 
+        display: block;
+        width: 100%
+}
+
+
+.TACO{
+    width: 100%;
+    margin: auto;
+}
+.HPE{
+    width: 100%;
+    margin: auto;
+}
+.Android{
+    margin: auto;
+    display: block;
+}
+
+.portfolio-caption{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.amodal{
+    display: block;
+    text-align: center;
+}
+
+#contact{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#projects #skills #contact{
+    background-color: #e9ecef;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+#contact{
+    background-color: #e9ecef;
+}
+
+.viz{
+    display: block;
+    width: 100%;
+    height: 350px;
+}
