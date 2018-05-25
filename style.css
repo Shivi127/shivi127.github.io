@@ -9,7 +9,9 @@
         display: block;
         width: 100%
 }
-
+.body{
+    margin: 0px;
+}
 
 .TACO{
     width: 100%;
