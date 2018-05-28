@@ -39,6 +39,10 @@
     padding-bottom: 20px;
 }
 
+.container-fluid{
+    padding:0
+}
+
 #projects #skills #contact{
     background-color: #e9ecef;
 /*     padding: 10px; */
