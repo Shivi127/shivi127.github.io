@@ -44,9 +44,10 @@
 }
 
 #projects #skills #contact{
-    background-color: #e9ecef;
+    
+/*    background-color: #e9ecef;*/
 /*     padding: 10px; */
-    margin-bottom: 50px;
+    padding: 50px;
 }
 
 #contact{
@@ -62,4 +63,13 @@
 body{
     padding: 0px
     margin: 0px
+}
+footer{
+    background-color: #212529;
+}
+hr{
+    background-color: BLACK;
+    border: 0 none;
+    color: black;
+    height: 2px;
 }
