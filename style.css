@@ -1,75 +1,82 @@
-.node{
+.node {
     font-size: 75px;
 }
 
 .card {
-        margin: auto; 
-        float: none; 
-        margin-bottom: 10px; 
-        display: block;
-        width: 100%
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+    display: block;
+    width: 100%
 }
 
-.TACO{
+.TACO {
     width: 100%;
     margin: auto;
 }
-.HPE{
+
+.HPE {
     width: 100%;
     margin: auto;
 }
-.Android{
+
+.Android {
     margin: auto;
     display: block;
 }
 
-.portfolio-caption{
+.portfolio-caption {
     display: block;
     margin: auto;
     text-align: center;
 }
 
-.amodal{
+.amodal {
     display: block;
     text-align: center;
 }
 
-#contact{
+#contact {
     padding-top: 50px;
     padding-bottom: 20px;
 }
 
-.container-fluid{
-    padding:0
+.container-fluid {
+    padding: 0
 }
 
-#projects #skills #contact{
-    
-/*    background-color: #e9ecef;*/
-/*     padding: 10px; */
+#projects #skills #contact {
+    /*    background-color: #e9ecef;*/
+    /*     padding: 10px; */
     padding: 50px;
 }
 
-#contact{
+#contact {
     background-color: #e9ecef;
 }
 
-.viz{
+.viz {
     display: block;
     width: 100%;
     height: 350px;
 }
 
-body{
-    padding: 0px
-    margin: 0px
+body {
+    padding: 0px margin: 0px
 }
-footer{
+
+footer {
     background-color: #212529;
 }
-hr{
-    background-color: BLACK;
+
+hr {
+    background-color: #191918;
     border: 0 none;
     color: black;
     height: 2px;
+}
+
+.amex {
+    width: 10%;
+    height: auto;
 }
