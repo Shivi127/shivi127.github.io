@@ -77,6 +77,17 @@ hr {
 }
 
 .amex {
-    width: 10%;
+    width: 100%;
     height: auto;
+}
+
+.heading {
+    margin-bottom: 1rem;
+}
+
+.tech {}
+
+.test {
+    font: outline;
+    font-weight: 180;
 }
