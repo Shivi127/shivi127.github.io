@@ -25,6 +25,10 @@
     display: block;
 }
 
+.Android:hover {
+    cursor: pointer;
+}
+
 .portfolio-caption {
     display: block;
     margin: auto;
@@ -34,6 +38,10 @@
 .amodal {
     display: block;
     text-align: center;
+}
+
+.amodal:hover {
+    cursor: pointer;
 }
 
 #contact {
@@ -92,4 +100,9 @@ hr {
 .test {
     font: outline;
     font-weight: 180;
+}
+
+b,
+strong {
+    font-weight: 700;
 }
