@@ -106,3 +106,13 @@ b,
 strong {
     font-weight: 700;
 }
+
+.highlighted-heading {
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
+
+.pad {
+    padding: 15px;
+}
