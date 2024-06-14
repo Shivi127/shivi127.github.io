@@ -57,8 +57,11 @@
     /*    background-color: #e9ecef;*/
     /*     padding: 10px; */
     padding: 50px;
-}
 
+}
+#blogs {
+    padding: 50px;
+}
 #contact {
     background-color: #e9ecef;
 }
@@ -115,4 +118,23 @@ strong {
 
 .pad {
     padding: 15px;
+}
+
+.blog-grid{
+    padding: auto;
+}
+
+a {
+    color: black; /* Change this to your desired color */
+}
+.blog-img img {
+    height: 250px;
+    width: 350px;
+    object-fit: cover;
+}
+.blog-grid {
+    margin-bottom: 20px;
+}
+.section-heading {
+    margin-bottom: 40px;
 }
